@@ -1,2 +1,2 @@
-# http://1500295.github.io
+# https://1500295.github.io
 Website for School Project
