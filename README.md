@@ -20,11 +20,11 @@ Website for School Project
 
 <center>
 <pre>
-<a href = "Geography.html"><img src="\\fs-studentdata-01v\studentprofiles$\5601619\My Documents\geo.gif" height = "400" width = "400"></a>
-<a href = "demographics.html"><img src="\\fs-studentdata-01v\studentprofiles$\5601619\My Documents\demo.png" height = "400" width = "400"></a>	
-<a href = "majorcities.html"><img src="\\fs-studentdata-01v\studentprofiles$\5601619\My Documents\majorcity.jpg" height = "400" width = "400"></a><br>	
-<a href = "Tourist.html"><img src="\\fs-studentdata-01v\studentprofiles$\5601619\My Documents\tourist.jpg" height = "400" width = "400"></a>	   
-<a href = "images.html"><img src="\\fs-studentdata-01v\studentprofiles$\5601619\My Documents\pics.jpg" height = "400" width = "400"></a></pre></center>
+<a href = "Geography.html"><img src="geo.gif" height = "400" width = "400"></a>
+<a href = "demographics.html"><img src="demo.png" height = "400" width = "400"></a>	
+<a href = "majorcities.html"><img src="majorcity.jpg" height = "400" width = "400"></a><br>	
+<a href = "Tourist.html"><img src="tourist.jpg" height = "400" width = "400"></a>	   
+<a href = "images.html"><img src="pics.jpg" height = "400" width = "400"></a></pre></center>
 
 <br>
 <hr>
