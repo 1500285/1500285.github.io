@@ -1,2 +1,2 @@
-# uaewebsite.github.io
+# UAE-Website
 Website for School Project
